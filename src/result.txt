@@ -1,0 +1,2 @@
+C:\Users\Mike\example\file1.txt
+C:\Users\Mike\example\subdir1\file3.txt
